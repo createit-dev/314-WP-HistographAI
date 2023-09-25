@@ -1,0 +1,10 @@
+{
+    "require": {
+        "openai-php/client": "^0.7.3",
+        "symfony/http-client": "^6.3",
+        "nyholm/psr7": "^1.8",
+        "guzzlehttp/guzzle": "^7.8",
+        "woocommerce/action-scheduler": "^3.6",
+        "erusev/parsedown": "^1.7"
+    }
+}
